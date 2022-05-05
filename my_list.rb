@@ -12,7 +12,6 @@ class MyList
       yield @list[i]
     end
   end
-
 end
 
 # Verify solution:
