@@ -37,7 +37,7 @@ To get a local copy up and running follow these steps:
 
 Contributions, issues, and feature requests are welcome!
 
-[You can leave them here!](https://github.com/rdnrn/my-enumerable/issues)
+[You can leave them here](https://github.com/rdnrn/my-enumerable/issues)
 
 ## Show your support
 
